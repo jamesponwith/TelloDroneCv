@@ -1,5 +1,5 @@
 # TelloDroneCv
-Autonomous DJI Tello drone control using OpenCV
+Autonomous face tracking DJI Tello drone using OpenCV
 
 [Connect your bluetooth controller to computer]
 
